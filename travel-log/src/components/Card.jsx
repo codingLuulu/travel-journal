@@ -7,7 +7,7 @@ export default function TravelCard(props) {
                 <img src={props.image} alt="Berlin" className="card-img"/>
                 <div className="card-textContent">
                     <div className="location">
-                        <img src="\src\assets\location-pin.png" alt="location-icon" />
+                        <img src="\location-pin.png" alt="location-icon" />
                         <p className="location-subtitle">{props.location}</p>
                         <a href={props.googleMaps} className="mapUrl">view on Google Map</a>
                     </div>
