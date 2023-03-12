@@ -131,7 +131,7 @@ export default [
         startDate : '24th June, 2025',
         endDate : '24th July, 2025',
         description: "Leeds is a city in the northern English county of Yorkshire. On the south bank of the River Aire, the Royal Armouries houses the national collection of arms and artillery. Across the river, the redeveloped industrial area around Call Lane is famed for bars and live music venues under converted railway arches. Leeds Kirkgate Market features hundreds of indoor and outdoor stalls.",
-        imageUrl : 'images//leeds.jpg',
+        imageUrl : '/images/leeds.jpg',
         altText: 'Leeds'  
     },
 ]
