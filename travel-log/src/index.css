@@ -48,9 +48,6 @@ nav{
   width: 250px;
   height: auto;
 }
-.card-textContent {
-  /* margin-top: 1rem; */
-}
 .location {
   display: flex;
   align-items: center;

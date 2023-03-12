@@ -31,7 +31,7 @@ export default [
       startDate : '13 September, 2024',
       endDate : '14 October, 2024',
       description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the foreshore of Sydney Harbour, it is widely regarded as one of the world's most famous and distinctive buildings and a masterpiece of 20th-century architecture.",
-      imageUrl : '/src/assets/sydney-australia.jpg',
+      imageUrl : '/sydney-australia.jpg',
       altText: 'Australia'  
     },
     {
@@ -42,7 +42,7 @@ export default [
       startDate : '15   October, 2024',
       endDate : '16 November, 2024',
       description: "Reading is a large town on the Thames and Kennet rivers in southern England. It’s known for the annual Reading Festival, an outdoor rock music event. Shops and riverside restaurants dot the town centre. The Reading Museum contains exhibits on the town’s history and displays a Victorian replica of the Bayeux Tapestry. The ruins of the 12th-century Reading Abbey lie beside Forbury Gardens, a Victorian formal garden.",
-      imageUrl : '/src/assets/reading.jpg',
+      imageUrl : '/reading.jpg',
       altText: 'Reading'  
     },
     {
@@ -64,7 +64,7 @@ export default [
         startDate : '18 Dec, 2024',
         endDate : '20 Jan, 2025',
         description: "Oxford, a city in central southern England, revolves around its prestigious university, established in the 12th century. The architecture of its 38 colleges in the city’s medieval center led poet Matthew Arnold to nickname it the 'City of Dreaming Spires'. University College and Magdalen College are off the High Street, which runs from Carfax Tower (with city views) to the Botanic Garden on the River Cherwell.",
-        imageUrl : '/src/assets/oxford.jpg',
+        imageUrl : 'oxford.jpg',
         altText: 'Oxford'  
     },
     {
