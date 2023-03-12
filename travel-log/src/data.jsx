@@ -9,7 +9,7 @@ export default [
       startDate : '12 June, 2024',
       endDate : '10 August, 2024',
       description:"Berlin, Germany’s capital, dates to the 13th century. Reminders of the city's turbulent 20th-century history include its Holocaust memorial and the Berlin Wall's graffitied remains. Divided during the Cold War, its 18th-century Brandenburg Gate has become a symbol of reunification. The city's also known for its art scene and modern landmarks like the gold-colored, swoop-roofed Berliner Philharmonie, built in 1963.",
-      imageUrl : '/images/berlin.jpg'  
+      imageUrl : './images/berlin.jpg'  
     },
     {
       id : 2,
@@ -19,7 +19,7 @@ export default [
       startDate : '11 August, 2024',
       endDate : '12 September, 2024',
       description: 'Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age. Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. Cycling is key to the city’s character, and there are numerous bike paths.',
-      imageUrl : '/images/amsterdam.jpg'  
+      imageUrl : './images/amsterdam.jpg'  
     },
     {
       id : 3,
