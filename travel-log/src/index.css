@@ -101,3 +101,33 @@ hr{
 .location-list li {
   margin-right: 6rem; 
 }
+
+
+@media(max-width: 945px) {
+  .App{
+    max-width: 700px;
+  }
+  .card-content {
+    /* flex-wrap: wrap; */
+  }
+}
+@media(max-width: 785px) {
+  .App{
+    max-width: 550px;
+  }
+  .card-content {
+    flex-wrap: wrap;
+  }
+}
+@media(max-width: 655px) {
+  .App{
+    max-width: 500px;
+  }
+  
+}
+@media(max-width: 505px) {
+  .App{
+    max-width: 300px;
+  }
+  
+}
