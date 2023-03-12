@@ -4,7 +4,7 @@ export default function TravelCard(props) {
     return(
         <main className="card">
             <div className="card-content">
-                <img src={props.image} alt="Berlin" className="card-img"/>
+                <img src={props.image} alt={props.altText} className="card-img"/>
                 <div className="card-textContent">
                     <div className="location">
                         <img src="images\location-pin.png" alt="location-icon" />

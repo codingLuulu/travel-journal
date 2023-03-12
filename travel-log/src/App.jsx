@@ -17,8 +17,8 @@ function App() {
               googleMaps = {data.googleMapsUrl}
               startDate = {data.startDate}
               endDate = {data.endDate}
-              desc = {data.description}
-              image = {data.imageUrl}/>
+              image = {data.imageUrl}
+              altText = {data.altText}/>
   })
 
   const otherLocationList = OtherPlaces;
