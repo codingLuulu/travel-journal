@@ -17,6 +17,7 @@ function App() {
               googleMaps = {data.googleMapsUrl}
               startDate = {data.startDate}
               endDate = {data.endDate}
+              desc = {data.description}
               image = {data.imageUrl}
               altText = {data.altText}/>
   })
